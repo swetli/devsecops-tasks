@@ -15,3 +15,4 @@ resource "terraform_data" "third" {
     command = "echo 3"
   }
 }
+
